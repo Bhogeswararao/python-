@@ -1,0 +1,13 @@
+lis=int(input())
+list=[]
+insert.list()==lis
+insert.list()==lis
+insert.list()==lis
+print(list)
+remove.list()==lis
+append.list()==lis
+sort.list()==lis
+print(list)
+pop.list()==lis
+reverse.list()==lis
+print(list)
